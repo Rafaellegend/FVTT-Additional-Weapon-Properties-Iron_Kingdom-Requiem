@@ -2,13 +2,13 @@
   "name": "ironkingdomwpp",
   "title": "Additional Weapon Properties from Iron Kingdom- DND5e",
   "description": "Adds Iron Kingdom new weapon properties",
-  "version": "0.2",
+  "version": "0.1",
   "author": "Raffozo",
   "systems": ["dnd5e"],
   "styles": [],
   "scripts": ["ironkingdomwpp.js"],
   "manifest": "https://raw.githubusercontent.com/Rafaellegend/FVTT-Additional-Weapon-Properties-Iron_Kingdom-Requiem/main/module.json",
-  "download": "https://github.com/Rafaellegend/FVTT-Additional-Weapon-Properties-Iron_Kingdom-Requiem/archive/refs/heads/main.zip",
+  "download": "https://github.com/Rafaellegend/FVTT-Additional-Weapon-Properties-Iron_Kingdom-Requiem/archive/refs/tags/v0.0.1.zip",
   "minimumCoreVersion": "0.9.0",
   "compatibleCoreVersion": "0.10.0"
 }
