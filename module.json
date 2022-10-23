@@ -1,0 +1,14 @@
+{
+  "name": "ironkingdomwpp",
+  "title": "Additional Weapon Properties from Iron Kingdom- DND5e",
+  "description": "Adds Iron Kingdom new weapon properties",
+  "version": "0.2",
+  "author": "Raffozo",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["ironkingdomwpp.js"],
+  "manifest": "",
+  "download": "",
+  "minimumCoreVersion": "0.9.0",
+  "compatibleCoreVersion": "0.10.0"
+}
